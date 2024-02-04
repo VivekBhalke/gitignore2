@@ -1,2 +1,0 @@
-hi there i am vivek bhalke who ought to be the full stack developer in node js express js and the sql database with the help of react js as well now here this file should be put into the git ignore folder
-
